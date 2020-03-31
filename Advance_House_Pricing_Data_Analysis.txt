@@ -1,0 +1,31 @@
+All the LifeCycle in a data Science Projects
+
+1. Data Analysis  (we can also say it Data Preprocessing)
+2. Feature Engineering
+3. Feature Selection
+4. Model Building
+5. Model Deployment
+
+Each and every part of lifecycle is a pipeline like data Analysis can run independently 
+whether it is Feature Engineerng etc. then we can link all together.
+
+DATA ANALYSIS
+
+IN DATA ANALYSIS WE WILL ANALYZE TO FIND OUT BELOW STUFF----
+
+1. Missing values
+2. All the Numerical Variables
+3. Distribution of Numerical Variables -- Regression part
+4. Categorical Variables
+5. Cardinality of Categorical Variables
+6. Outliers
+7. Relationship between independent and dependent feature (Sales Price)
+
+
+
+
+whenever we want to solve a regression problem we need to make a Non Gaussian Distribution
+to Gaussian Distribution or Standard Normal Distribution
+
+
+
