@@ -1,6 +1,6 @@
 import nltk
 import pandas as pd
-message=pd.read_csv('C:/Users/Aaadityaa/Downloads/Documents/SMSSpamCollection',sep='\t',names=['label','message'])
+message=pd.read_csv('C:/Users/Ankit/Downloads/Documents/SMSSpamCollection',sep='\t',names=['label','message'])
 message.describe()
 message.groupby('label').describe()
 message['length']=message['message'].apply(len)
